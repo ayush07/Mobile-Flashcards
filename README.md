@@ -3,7 +3,7 @@
 
 ## Running the application
 
- - `npm install` - for getting the required libs  
+ - `npm install` - for installing the required dependencies.  
  - `npm start` 
  - Scan the QR code and open it using expo application on a phone.
  
