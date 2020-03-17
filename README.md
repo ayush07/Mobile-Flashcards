@@ -1,6 +1,10 @@
 # Mobile-Flashcards
  Project For Udacity Nanodegree 
 
-#Installation
- run 'npm install' to install all the dependencies for the project.
- npm start 
+## Running the application
+
+ - `npm install` - for getting the required libs  
+ - `npm start` 
+ - Scan the QR code and open it using expo application on a phone.
+ 
+ Tested on my OnePlus android device.
